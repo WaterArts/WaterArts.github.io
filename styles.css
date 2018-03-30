@@ -1,10 +1,10 @@
 img {
-    width: 1000px;
+    width: 700px;
 }
 
 body {
     text-align:center;
-    font-family:Courier;
+    font-family:sans-serif;
     background:black;
     color:white;
    }
